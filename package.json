@@ -1,5 +1,5 @@
 {
-  "name": "google-mybunisses",
+  "name": "google-mybusiness-crawl",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "dev": "node src/crawl.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Diogo Jorge Basso",
+  "license": "MIT",
   "dependencies": {
     "puppeteer": "^5.5.0"
   }
